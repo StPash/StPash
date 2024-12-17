@@ -11,24 +11,24 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=StPash&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi, I'm Stepan
+  Привет, я Степан Пашов 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-###  About Me :
-:man_technologist: I am a Python Developer.
+###  Обо мне :
+:man_technologist: Я Python разработчик.
 
-- I have been working with python for about a year and continue to improve my skills.
+- Самостоятельно освоил Python, работаю с ним около года и продолжаю совершенствовать свои навыки.
   
-- I mainly work in the field of web development. Most of the time I work with pet projects and read technical articles.
+- Онсновное направление: веб-разработка. Работаю с пет-проектами и изучаю новые материалы.
 
-- I will be glad to cooperate within the framework of your projects.
+- Буду рад сотрудничеству в ваших проектах.
 
-- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-StPash-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/St_p44)
+- Связаться со мной можно в Telegram: [![Telegram Badge](https://img.shields.io/badge/-St_p44-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/St_p44)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Стэк :
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-316192?style=for-the-badge&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6DA55F?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -37,5 +37,5 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Статистика :
 [![GitHub Streak](https://streak-stats.demolab.com?user=StPash&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
