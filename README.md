@@ -40,4 +40,6 @@
 ---
 
 ### :fire: Статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StPash&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<div>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StPash&theme=github" width="561"/>  <br>    
+</div>
