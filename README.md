@@ -17,25 +17,27 @@
 </div>
 
 ###  Обо мне :
-:man_technologist: Я Python разработчик.
 
-- Самостоятельно освоил Python, работаю с ним около года и продолжаю совершенствовать свои навыки.
+:man_technologist: - Уже 1.5 года как я Python разработчик! продолжаю совершенствовать свои навыки, осваиваю новые.
   
-- Онсновное направление: веб-разработка. Работаю с пет-проектами и изучаю новые материалы.
+:computer: - Онсновное направление: веб-разработка. Сейчас занимаюсь фрилансом и pet-проектами.
 
-- Буду рад сотрудничеству в ваших проектах.
+:robot: - Также занимаюсь telegram-ботами.
 
-- Связаться со мной можно в Telegram: [![Telegram Badge](https://img.shields.io/badge/-St_p44-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/St_p44)
+:handshake: - Буду рад сотрудничеству в ваших проектах.
+
+:mailbox: - Связаться со мной можно в Telegram: [![Telegram Badge](https://img.shields.io/badge/-St_p44-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/St_p44)
+
 ---
 
 ### :hammer_and_wrench: Стэк :
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-316192?style=for-the-badge&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6DA55F?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23593d88.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### :fire: Статистика :
-[![GitHub Streak](https://streak-stats.demolab.com?user=StPash&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StPash&theme=transparent&hide_border=true)](https://git.io/streak-stats)
