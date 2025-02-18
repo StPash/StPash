@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG82dmRoM3BtOTB4anUwcTh2dWhwdmZnZGx5YTBjYzlsd2pvbjlmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400"/>
   
   <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/stepan-pashov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
   <a href="https://t.me/St_p44">
